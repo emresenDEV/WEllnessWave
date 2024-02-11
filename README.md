@@ -44,3 +44,7 @@ Students comes from various walks of life and everyone manages their stressors d
 [Eleoper Mapute](https://www.linkedin.com/in/eleopermapute/)
 
 [Monica Nieckula](https://www.linkedin.com/in/monica-nieckula/)
+
+###### Notes:
+
+Our web application is hosted on Google Sites and accessible via [link](https://sites.google.com/view/wellnesswave/home?authuser=0)
